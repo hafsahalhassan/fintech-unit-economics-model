@@ -40,8 +40,8 @@ A driver-based FP&A model for **PayNest**, a fictional fintech. Every assumption
 
 ## Screenshots
 <p>
-  <img src="images/unit_economics.png" width="49%" alt="Unit economics by channel with LTV:CAC chart">
-  <img src="images/summary.png" width="49%" alt="Leadership summary with recommendation and payback chart">
+  <img src="unit_economics.png" width="49%" alt="Unit economics by channel with LTV:CAC chart">
+  <img src="summary.png" width="49%" alt="Leadership summary with recommendation and payback chart">
 </p>
 
 ## Model conventions
